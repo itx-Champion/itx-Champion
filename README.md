@@ -70,7 +70,7 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 Check out some of my recent work and contributions:
 
 - **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: A full-stack MERN application that does XYZ.
-- **[Fit club]()**: A real-time chat application with WebSockets and MERN Stack.
+- **[Fit club](https://github.com/itx-Champion/Fit-club.git)**: A front-end project for a fitness in club.
 
 ---
 
