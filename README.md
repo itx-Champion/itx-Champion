@@ -10,10 +10,16 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in **React**, **Node.js**.
-- 👨‍💻 Experienced in building **full-stack** applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**.
-- 🛠 Skilled in crafting **RESTful APIs**, handling **database management**, and implementing **real-time features** using **Socket.IO**.
-- 🔥 Constant learner, always open to exploring new technologies and frameworks.
+- 🌱 Currently improving my skills in **React** and **Node.js**, focusing on **TypeScript** for better code quality and scalability.
+- 👨‍💻 Experienced in building **full-stack** applications using **MongoDB**, **Express.js**, **React.js**, and **Node.js**. 
+- 🛍️ Developed an e-commerce platform that supports real-time user interactions and payment processing.
+- 🛠 Skilled in crafting **RESTful APIs** and managing databases with **MongoDB**, ensuring optimal performance and security.
+- 🔥 Constant learner, always open to exploring new technologies and frameworks, recently delving into **GraphQL** for API development.
+- 🎯 Passionate about **user experience (UX)** and **user interface (UI)** design, creating visually appealing and intuitive applications.
+- 🤝 Strong advocate for **collaboration** and **teamwork**, having successfully led a project team to deliver a **real-time chat application** within a tight deadline.
+- 🌍 Actively contribute to **open-source** projects, enhancing my coding skills and staying involved in the developer community.
+- 💡 I enjoy tackling **challenging problems** with innovative solutions, recently implementing **AI-driven features** in a web application to improve user engagement.
+- 📈 Continuously analyzing and optimizing application performance, resulting in a **30% reduction in load times** for deployed projects.
 
 ---
 
@@ -66,11 +72,11 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 
 ## 👀 Fun Facts
 
-- 😄 Pronouns: He/Him
-- 🎮 Avid gamer and tech enthusiast in my free time.
-- 🧠 Always learning and experimenting with new technologies.
-- Passionate about continuously learning and experimenting with new technologies, tools, and frameworks to stay ahead in the rapidly evolving tech landscape.
-- I enjoy tackling challenging problems with innovative solutions, whether in gaming or web development.
+- 😄 **Pronouns:** He/Him
+- 🎮 **Avid gamer:** A tech enthusiast in my free time.
+- 🧠 **Lifelong Learner:** Always learning and experimenting with new technologies.
+- 🌱 **Tech Explorer:** Passionate about continuously learning and experimenting with new technologies, tools, and frameworks to stay ahead in the rapidly evolving tech landscape.
+- 🔍 **Creative Problem Solver:** I enjoy tackling challenging problems with innovative solutions, whether in gaming or web development.
 ---
 
 ## 📈 GitHub Stats
