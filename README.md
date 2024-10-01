@@ -55,8 +55,8 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 
 Feel free to reach out to me for any collaboration, discussions, or just to say hi! 😊
 
-[![LinkedIn](https://www.linkedin.com/in/mian-ahmad-764882262/)
-[![Gmail](ahmadsharif965@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mian-ahmad-764882262/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadsharif965@gmail.com)
 
 ---
 
