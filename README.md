@@ -69,7 +69,8 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 - 😄 Pronouns: He/Him
 - 🎮 Avid gamer and tech enthusiast in my free time.
 - 🧠 Always learning and experimenting with new technologies.
-
+- Passionate about continuously learning and experimenting with new technologies, tools, and frameworks to stay ahead in the rapidly evolving tech landscape.
+- I enjoy tackling challenging problems with innovative solutions, whether in gaming or web development.
 ---
 
 ## 📈 GitHub Stats
