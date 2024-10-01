@@ -82,9 +82,9 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 
 Check out some of my recent work and contributions:
 
-- **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: Developed a full-stack restaurant management application using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The application features a user-friendly interface for customers to view menus, place orders, and provide feedback, while enabling restaurant staff to manage orders and inventory seamlessly. Implemented real-time updates with Socket.IO for order status notifications.
-- **[Fit club](https://github.com/itx-Champion/Fit-club.git)**: A front-end project for a fitness in club.
-- **[Ecomm-dashboard](https://github.com/itx-Champion/E-Comm-dashboard.git)**: A front-end project for a fitness in club.
+- **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: Developed a full-stack restaurant management application using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The application features a user-friendly interface for customers to view menus, place orders, and provide feedback.
+- **[Fit club](https://github.com/itx-Champion/Fit-club.git)**:Created an engaging and responsive frontend application using **React.js**. The project emphasizes user experience with dynamic components, state management, and seamless navigation. Utilized **React Router** for routing. Focused on implementing modern design principles to enhance visual appeal and accessibility.
+- **[Ecomm-dashboard](https://github.com/itx-Champion/E-Comm-dashboard.git)**: MERN Stack Developer with expertise in building scalable web applications. Recently developed Ecomm-dashboard, focusing on seamless user experiences through React.js for the frontend and efficient backend solutions using Node.js and Express.js. Passionate about leveraging technology to create impactful solutions.
 ---
 
 <!--
