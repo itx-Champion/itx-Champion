@@ -69,8 +69,8 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 
 Check out some of my recent work and contributions:
 
-- **[Project Name 1](https://github.com/your-repo/project-1)**: A full-stack MERN application that does XYZ.
-- **[Project Name 2](https://github.com/your-repo/project-2)**: A real-time chat application with WebSockets and MERN Stack.
+- **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: A full-stack MERN application that does XYZ.
+- **[Fit club]()**: A real-time chat application with WebSockets and MERN Stack.
 
 ---
 
