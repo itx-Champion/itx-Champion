@@ -1,9 +1,8 @@
 <div align="center">
 
-# **I'm Mian Ahmad 👋**
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Frontend+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
+# ** Hi, I'm 👋**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL+Stack+Developer+React Js+Mongo DB+Express Js+Node Js;Mern+Stack+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
 
-I'm a passionate **MERN Stack Developer** focused on building scalable web applications.
 </div>
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a keen interest in building scalable and performant web applications. I thrive on transforming ideas into real-world applications that can make a difference.
