@@ -2,10 +2,10 @@
 
 
 # ** Hi, I'm 👋**
-<div align='center'>
+
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20FULL+Stack+Developer;React+Js+MongoDB+Express+Js+Node+Js;MERN+Stack+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
 
-</div>
+
 </div>
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a keen interest in building scalable and performant web applications. I thrive on transforming ideas into real-world applications that can make a difference.
