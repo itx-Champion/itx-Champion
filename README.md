@@ -2,7 +2,7 @@
 
 # ** Hi, I'm 👋**
 <div align="left">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL+Stack+Developer;React+Js+MongoDB+Express+Js+Node+Js;%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20MERN+Stack+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL+Stack+Developer;React+Js+MongoDB+Express+Js+Node+Js;MERN+Stack+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
  </div>
 </div>
 
