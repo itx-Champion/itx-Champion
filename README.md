@@ -1,8 +1,9 @@
 <div align="center">
 
+
 # ** Hi, I'm 👋**
 <div align='center'>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20FULL+Stack+Developer;React+Js+MongoDB+Express+Js+Node+Js;MERN+Stack+Developer;Passionate+about+Coding)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%20%20%20%20%20%20%20%20%20%20%20%20%20%20FULL+Stack+Developer;React+Js+MongoDB+Express+Js+Node+Js;MERN+Stack+Developer+text-center;Passionate+about+Coding)](https://git.io/typing-svg)
 
 </div>
 </div>
