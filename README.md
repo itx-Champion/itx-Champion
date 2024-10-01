@@ -19,10 +19,14 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 
 ## 💼 Professional Interests
 
-- **Building Real-time Applications:** WebSockets, Socket.IO, live notifications, and chat systems.
-- **Cloud & DevOps:** Learning how to deploy and manage apps on **AWS**, **Heroku**, and **DigitalOcean**.
-- **AI & Automation:** Interested in integrating AI features into web applications using **Machine Learning** APIs.
-- **Open Source:** Active contributor and collaborator on open-source projects. Always happy to join forces on exciting projects!
+- **Building Real-time Applications:** Proficient in developing robust real-time applications utilizing **WebSockets** and **Socket.IO** for features like live notifications, chat systems, and collaborative tools that enhance user interaction.
+
+- **Open Source Contribution:** A dedicated contributor to the open-source community, collaborating on innovative projects and leveraging collective expertise to drive impactful changes in software development practices.
+
+- **Advanced MERN Stack Development:** Continuously enhancing my skills in **MongoDB**, **Express.js**, **React**, and **Node.js**, with a focus on building scalable, maintainable, and efficient web applications that meet modern user demands.
+
+- **UX/UI Design Principles:** Understanding and applying best practices in UX/UI design to create intuitive, user-friendly interfaces that foster engagement and satisfaction.
+
 
 ---
 
