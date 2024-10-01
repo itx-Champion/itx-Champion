@@ -82,9 +82,9 @@ Feel free to reach out to me for any collaboration, discussions, or just to say 
 
 Check out some of my recent work and contributions:
 
-- **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: A full-stack MERN application that does XYZ.
+- **[Olivia cooks Restautaurant](https://github.com/itx-Champion/Olivi-cooks-restaurant.git)**: Developed a full-stack restaurant management application using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). The application features a user-friendly interface for customers to view menus, place orders, and provide feedback, while enabling restaurant staff to manage orders and inventory seamlessly. Implemented real-time updates with Socket.IO for order status notifications.
 - **[Fit club](https://github.com/itx-Champion/Fit-club.git)**: A front-end project for a fitness in club.
-
+- **[Ecomm-dashboard](https://github.com/itx-Champion/E-Comm-dashboard.git)**: A front-end project for a fitness in club.
 ---
 
 <!--
