@@ -17,22 +17,15 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 - 🔥 Constant learner, always open to exploring new technologies and frameworks, recently delving into **GraphQL** for API development.
 - 🎯 Passionate about **user experience (UX)** and **user interface (UI)** design, creating visually appealing and intuitive applications.
 - 🤝 Strong advocate for **collaboration** and **teamwork**, having successfully led a project team to deliver a **real-time chat application** within a tight deadline.
-- 🌍 Actively contribute to **open-source** projects, enhancing my coding skills and staying involved in the developer community.
-- 💡 I enjoy tackling **challenging problems** with innovative solutions, recently implementing **AI-driven features** in a web application to improve user engagement.
-- 📈 Continuously analyzing and optimizing application performance, resulting in a **30% reduction in load times** for deployed projects.
 
 ---
 
 ## 💼 Professional Interests
 
 - **Building Real-time Applications:** Proficient in developing robust real-time applications utilizing **WebSockets** and **Socket.IO** for features like live notifications, chat systems, and collaborative tools that enhance user interaction.
-
 - **Open Source Contribution:** A dedicated contributor to the open-source community, collaborating on innovative projects and leveraging collective expertise to drive impactful changes in software development practices.
-
 - **Advanced MERN Stack Development:** Continuously enhancing my skills in **MongoDB**, **Express.js**, **React**, and **Node.js**, with a focus on building scalable, maintainable, and efficient web applications that meet modern user demands.
-
 - **UX/UI Design Principles:** Understanding and applying best practices in UX/UI design to create intuitive, user-friendly interfaces that foster engagement and satisfaction.
-
 
 ---
 
