@@ -30,12 +30,12 @@ Day to day I work on a multi-tenant construction-management SaaS platform (Node.
 ### Featured project
 
 <a href="https://lumora-ai-agent.vercel.app">
-  <img src="https://raw.githubusercontent.com/itx-Champion/lumora/main/docs/screenshots/01-hero-dark.png" alt="Lumora — AI knowledge agent" width="100%"/>
+  <img src="https://raw.githubusercontent.com/itx-Champion/lumora/main/docs/screenshots/17-pulse.png" alt="Lumora — AI agent and CRM" width="100%"/>
 </a>
 
-**[Lumora](https://github.com/itx-Champion/lumora): AI knowledge agent** · [Live demo](https://lumora-ai-agent.vercel.app)
-Teams upload documents or import web pages and ask questions by text or voice. Answers carry clickable citations, and the agent opens tickets, drafts emails and schedules meetings through tool calls. Includes workspaces with HR, Support and Legal templates, an analytics dashboard, SSRF-safe website import, a Gemini → Groq → offline fallback chain, and a tested CI pipeline.
-`Next.js 16` `Vercel AI SDK` `RAG` `Gemini` `Auth.js` `Three.js` `Vitest` `GitHub Actions`
+**[Lumora](https://github.com/itx-Champion/lumora): AI agent, CRM and help desk** · [Live demo](https://lumora-ai-agent.vercel.app)
+An AI agent that answers from company documents with citations and acts on a multi-tenant Postgres CRM: support inbox with SLAs, auto-triage and knowledge-grounded AI replies, a drag-and-drop pipeline, explainable lead scores and an AI morning briefing. Admins get five server-enforced roles, "view as" impersonation, no-code automations and an audit log. A REST API and an **MCP server** let Claude or Cursor work with the CRM using scoped API keys.
+`Next.js 16` `Postgres` `Drizzle` `Vercel AI SDK` `MCP` `RAG` `Gemini` `RBAC` `Vitest` `GitHub Actions`
 
 ### More work
 
