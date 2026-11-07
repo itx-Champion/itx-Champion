@@ -41,7 +41,7 @@ Teams upload documents or import web pages and ask questions by text or voice. A
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Cyber E-commerce](https://github.com/itx-Champion/cyber-e-commerce) · [live](https://cyber-e-commerce-blond.vercel.app) | Electronics storefront with catalog, cart and checkout flow | React |
+| [Cyber Store](https://github.com/itx-Champion/cyber-e-commerce) · [live](https://cyber-e-commerce-blond.vercel.app) | Electronics storefront: URL-synced filters, Ctrl K search, cart drawer, validated guest checkout, order history, CI-tested | Next.js 16, TypeScript, Zustand, Zod |
 | [Portfolio](https://github.com/itx-Champion/mianAhmad-portfolio) · [live](https://mianahmadportfolio.vercel.app/) | Personal portfolio site | Next.js, TypeScript |
 | [Gym & Fitness Club](https://github.com/itx-Champion/Gym-FitnessClub) · [live](https://gym-fitness-club-two.vercel.app) | Responsive marketing site for a gym | Next.js, Tailwind CSS |
 | [Animated Website](https://github.com/itx-Champion/Animation-website) · [live](https://animation-website-vert.vercel.app) | Motion-heavy landing page | React |
